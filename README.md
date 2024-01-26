@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+Let's build a Notion like AI-powered WSYIWYG Editor
 ## Getting Started
 
 First, run the development server:
@@ -35,4 +35,21 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## How did I do this
+## Tools used
+ - Next.js 13
+ - DALL-E
+ - [Vercel AI SDK](https://sdk.vercel.ai/docs)
+ - [Vercel Edge Runtime](https://vercel.com/docs/functions/edge-functions/edge-runtime)
+ - [Shadcn](https://ui.shadcn.com/)
+ - Tailwind CSS
+ - [Clerk authenticator](https://clerk.com/)
+ - [DrizzleORM](https://orm.drizzle.team/)
+ - [NeonDB](https://neon.tech/)
+ - Firebase storage
+ - Tiptap WSYIWYG Editor
+
+## NPM Packages
+
+## How I did this
+1. Create a new Next.js project
+  
